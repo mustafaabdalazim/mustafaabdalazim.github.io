@@ -1,0 +1,61 @@
+MUSTAFA ABDELAZIM ABDALLA MOHAMED
+
+Muscat, Oman | +968 98 984 277 | mustafaabdazim@gmail.com
+LinkedIn: https://www.linkedin.com/in/mustafa-abdazim-4a652311b
+Portfolio: https://mustafaabdalazim.github.io
+
+PROFESSIONAL SUMMARY
+Telecommunications Engineer with 6+ years' experience designing, deploying, and maintaining telecom and IT systems. Strong focus on cloud services (AWS, Azure), automation, data analysis, and troubleshooting. Experienced in network design, routing & switching, microwave links, and process automation to improve reliability and operational efficiency.
+
+EXPERIENCE
+Telecommunications Engineer — Sea Port Corporation, Port Sudan, Sudan
+Oct 2017 — Apr 2023
+- Performed preventive maintenance and system upgrades to improve reliability and reduce downtime.
+- Deployed and configured telecom hardware and network devices to expand communication capabilities.
+- Troubleshot complex network issues and restored services with minimal disruption.
+- Designed telecom infrastructure and performed signal testing for optimal performance.
+- Worked with cross-functional teams to customize solutions for client requirements and perform system integrations.
+
+Training (Internship) — Abuabid Engineering, Khartoum, Sudan
+Jan 2016 — Apr 2016
+- Assisted with installation and maintenance of telecommunication systems and supported senior engineers in troubleshooting and configuration tasks.
+
+SKILLS
+- Cloud services: AWS, Microsoft Azure
+- Network design & implementation: IP routing, switching, VLANs
+- Microwave communications and RF fundamentals
+- Automation & scripting: Bash, basic RPA concepts
+- Data analysis & visualization: Power BI
+- DevOps basics: Git, Docker
+
+EDUCATION
+B.A., Electrical Engineering (Communication Engineering) — Academy of Engineering Sciences, 2015
+
+CERTIFICATIONS (selected)
+- Microsoft Certified: Azure Fundamentals — 2025
+- AWS Cloud Support Associate — 2025
+- AWS Cloud Technical Essentials — 2025
+- Microsoft Power BI Data Analyst Professional Certificate
+- Robotic Process Automation (RPA)
+- Relational Database (FreeCodeCamp)
+- Foundational C# with Microsoft
+- CCNA Security (Network Plus Training Center)
+- Huawei HCIA — Routing & Switching
+
+PROJECTS & ACHIEVEMENTS
+- AI-powered Chatbot Assistant: built agents for web search, email and calendar automation.
+- AWS Multi-Tier Architecture: designed and deployed a scalable multi-AZ architecture with Auto Scaling, ALB, and Aurora.
+- Mentored junior staff on network maintenance best practices.
+
+LANGUAGES
+- Arabic: Native
+- English: Fluent
+
+AVAILABILITY
+Relocation: Open to opportunities in Oman and the region. Remote work considered.
+
+ 
+
+
+
+

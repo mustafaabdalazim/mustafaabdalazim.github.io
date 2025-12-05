@@ -19,6 +19,9 @@
             <div class="nav-card" onclick="location.href='#contact'">
                 <span>Contact</span>
             </div>
+            <div class="nav-card" onclick="location.href='#cv'">
+                <span>CV / Download</span>
+            </div>
         </div>
     </header>
     <section id="about">
@@ -85,6 +88,13 @@
         </ul>
 
     </section>
+    <section id="cv">
+        <h2>Curriculum Vitae</h2>
+        <p>Download a copy of my CV for full details and certifications:</p>
+        <p><a class="download-btn" href="cv.txt" download>Download CV (Text)</a></p>
+        <h3>Quick summary</h3>
+        <p>Telecommunications Engineer with 6+ years' experience in telecom and IT systems; strengths in cloud (AWS/Azure), automation, network design, and data analysis.</p>
+    </section>
     <section id="projects">
         <h2>Projects</h2>
         <div class="project-list">
@@ -113,10 +123,10 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <form action="https://formspree.io/f/xdkdpony" method="POST">
-            <input type="text" name="name" placeholder="Your Name" required>
-            <input type="email" name="email" placeholder="Your Email" required>
-            <textarea name="message" placeholder="Your Message" required></textarea>
+        <form id="contactForm" action="https://formspree.io/f/xdkdpony" method="POST">
+            <input id="name" type="text" name="name" placeholder="Your Name" required>
+            <input id="email" type="email" name="email" placeholder="Your Email" required>
+            <textarea id="message" name="message" placeholder="Your Message" required></textarea>
             <button type="submit">Send</button>
         </form>
         <div id="formMessage"></div>

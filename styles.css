@@ -102,6 +102,19 @@ button {
 button:hover {
     background: #555;
 }
+/* CV download button */
+.download-btn {
+    display: inline-block;
+    background: #0077b6;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.download-btn:hover {
+    background: #005f86;
+}
 footer {
     text-align: center;
     padding: 1rem 0;
